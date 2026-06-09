@@ -1,0 +1,1 @@
+Edit Run_SCUM.bat to run the server. It will restart automatically when an update comes out.
